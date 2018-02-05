@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="btc">#ffb347</color>
+    <color name="bch">#77dd77</color>
+    <color name="eth">#b39eb5</color>
+    <color name="ltc">#cfcfc4</color>
+
+    <color name="darkgreen">#03c03c</color>
+    <color name="darkred">#c23b22</color>
+    <color name="darkgray">#7A7677</color>
+</resources>
